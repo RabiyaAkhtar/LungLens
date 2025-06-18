@@ -21,7 +21,7 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 pip install -r requirements.txt
 4. Set up Groq API Key
 export GROQ_API_KEY=your_groq_api_key
-# Or use Streamlit secrets management
+(Or use Streamlit secrets management)
 
 Running the Application:
 streamlit run app.py
